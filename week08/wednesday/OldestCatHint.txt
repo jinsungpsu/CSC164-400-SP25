@@ -1,0 +1,11 @@
+int a = ?, b = ?, c = ?;
+if (a > b)
+  if (a > c)
+    // a is the biggest
+if (b > a)
+  if (b > c)
+    // b is the biggest
+if (c > a && c > b) // c is the biggest
+
+if (garfield.getAge() > fifi.getAge() && garfield.getAge() > straycat.getAge()
+ >>>> garfield is the oldest!
